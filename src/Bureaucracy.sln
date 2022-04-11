@@ -7,6 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bureaucracy.Domain", "Burea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bureaucracy.Domain.Tests", "Bureaucracy.Domain.Tests\Bureaucracy.Domain.Tests.csproj", "{9D973597-AD50-422C-BF42-07D4FF20B47C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B87B8302-3D6E-48C5-B251-D11347CC3DD2}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bureaucracy.Cli", "Bureaucracy.Cli\Bureaucracy.Cli.csproj", "{77F0834D-3A28-40D7-BB40-564037BDCFAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +28,10 @@ Global
 		{9D973597-AD50-422C-BF42-07D4FF20B47C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D973597-AD50-422C-BF42-07D4FF20B47C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D973597-AD50-422C-BF42-07D4FF20B47C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77F0834D-3A28-40D7-BB40-564037BDCFAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F0834D-3A28-40D7-BB40-564037BDCFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F0834D-3A28-40D7-BB40-564037BDCFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F0834D-3A28-40D7-BB40-564037BDCFAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
