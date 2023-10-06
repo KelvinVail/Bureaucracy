@@ -1,7 +1,4 @@
-﻿using System;
-using Xunit;
-
-namespace Bureaucracy.Domain.Tests;
+﻿namespace Bureaucracy.Domain.Tests;
 
 public class TicketTests
 {
