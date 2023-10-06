@@ -11,7 +11,4 @@ public class TicketTests
         var ticket = Ticket.Create();
         Assert.NotEqual(ticket.Id, Guid.Empty);
     }
-
-    [Fact]
-    public void 
 }
